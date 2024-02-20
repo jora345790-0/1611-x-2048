@@ -1,3 +1,5 @@
+import numpy as np
+import random
 # Размеры игрового поля
 BOARD_SIZE = 4
 
@@ -117,3 +119,6 @@ def play_game():
 
 if __name__ == "__main__":
     play_game()
+
+
+#pip install numpy
